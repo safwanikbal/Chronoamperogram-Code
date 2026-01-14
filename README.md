@@ -17,7 +17,7 @@ This repository contains MATLAB code for analyzing chronoamperometry experiments
 2. In `Chronoamperogram_Code.m`, define your dataset:
 
 ```matlab
-Dataset = Your chronoamperometry data
+Dataset = Title of your chronoamperometry data file
 DatasetTitle = 'Your Experiment Name';.
 
 
